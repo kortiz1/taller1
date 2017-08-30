@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="taller1">Activity One By Kevin Ortiz</string>
+    <string name="material">Material</string>
+    <string name="dije">Pendant</string>
+    <string name="tipo">Type</string>
+    <string name="moneda">Currency</string>
+    <string name="valor_x_und">Value (X) Unit</string>
+    <string name="valor">Value</string>
+    <string name="resultado">Result</string>
+    <string name="calcular">Calculate</string>
+    <string name="borrar">Delete</string>
+    <string name="unidad">Unit</string>
+    <string name="digite_cant">Write Amount</string>
+    <string name="ancla">Anchor</string>
+    <string name="co">CO</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Leather</string>
+    <string name="martillo">Hammer</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oro_rosado">Pink Gold</string>
+    <string name="plata">Silver</string>
+    <string name="us">US</string>
+    <string name="error_eng">Please, Write an Amount</string>
+
+</resources>
